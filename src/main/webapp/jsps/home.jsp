@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to GitHub webhook demo.... </h1>
+<h1 align="center">Welcome to salman pathan organization.... </h1>
 <h1 align="center"> Mithun Software Solutions- {we are started a new batch from sep 3rd at 8 PM }Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
